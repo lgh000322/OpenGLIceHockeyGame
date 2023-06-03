@@ -1,0 +1,44 @@
+﻿  Client2.cpp
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(156,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(157,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(158,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(159,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(164,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(165,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(166,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(167,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(172,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(173,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(174,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(175,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(183,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(184,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(193,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(194,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(195,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(196,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(202,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(203,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(204,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(205,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(218,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(219,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(220,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(221,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(227,46): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(227,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(228,46): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(228,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(229,46): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(229,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(230,46): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(230,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(237,45): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(237,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(238,45): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(238,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(239,45): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(239,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(240,45): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\opengl\c++\OpenGLProjectClient2\OpenGLProjectClient2\Client2.cpp(240,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OpenGLProjectClient2.vcxproj -> D:\opengl\c++\OpenGLProjectClient2\Debug\OpenGLProjectClient2.exe
